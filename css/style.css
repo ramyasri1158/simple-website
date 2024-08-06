@@ -1,0 +1,134 @@
+.background{
+    background-image: url("https://hospitalityinsights.ehl.edu/hubfs/Imported_Blog_Media/Hotel-design.jpg");
+    background-size: cover;
+    height:100vh;
+    max-width:100vw;
+    text-align:center;
+}
+.hi{
+    color:rgb(6, 26, 2);
+    text-align: center;
+    font-size:50px;
+}
+.py{
+    font-size:20px;
+    color:rgb(2, 2, 2);
+}
+.by{
+    background-color: rgb(77, 167, 246);
+    border-radius: 15px;
+    padding: 10px;
+    border: none;
+    font-size: 10px;
+    width:8%;
+    position: relative;
+    left:750px;
+}
+.he{
+    font-size: 40px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.pee{
+    font-size: 20px;
+    color: black;
+    font-family: 'Roboto';
+    padding:10px;
+    float:left;
+}
+.hello{
+    font-weight: bold;
+    font-size: 30px;
+}
+.amenties{
+    text-align: center;
+}
+.amenties ul{
+    display:inline-block;
+    text-align: left;
+}
+.amenties ul li{
+    list-style-type: none;
+}
+.contain{
+    display:flex;
+    justify-content: space-around   ;
+    align-items: center;
+
+}
+.about-us{
+    width:50%;
+}
+.know-more{
+    color:white;
+    background-color: rgb(2, 13, 24);
+    position: relative;
+    left: 0px;
+    border-radius: 10px;
+}
+.fa-regular,.fa-solid,.fa-brands{
+    margin-right: 10px;
+}
+.hello1{
+    text-align:left;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: black;
+    padding-top: 2px;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+.imge{
+    width:700px;
+    height:350px;
+    margin-top: 5px;
+}
+.room-container{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.para{
+    font-size: 15px;
+    padding: 0px 10px;
+}
+.room-head{
+    padding:0px 10px;
+}
+.help-button{
+    background-color: brown;
+    color: white;
+    width: max-content;
+    border-radius: 8px;
+    padding: 0px 4px;
+    position: fixed;
+    bottom: 10px;
+    right: 0;
+    margin-right: 10px;
+}
+.help-button h1{
+    font-size: 15px;
+    letter-spacing: 1px;
+    color:white;
+
+}
+.form-heading{
+    font-size:30px;
+    text-align: center;
+    padding-top: 6px;
+}
+form{
+    border: 2px solid grey;
+    width:max-content;
+    border-radius:15px;
+    padding: 10px;
+}
+label{
+    font-weight: bold;
+}
+input{
+    padding: 3px;
+}
